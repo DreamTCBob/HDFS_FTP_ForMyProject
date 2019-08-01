@@ -1,0 +1,721 @@
+2019-07-30-14-37 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-30-14-37 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 10044 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-30-14-37 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-30-14-37 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-30-14-37 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1397 ms
+  2019-07-30-14-37 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-30-14-37 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-30-14-37 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-30-14-37 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 2.148 seconds (JVM running for 2.773)
+  2019-07-30-14-45 [http-nio-9000-exec-2] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Initializing Servlet 'dispatcherServlet'
+  2019-07-30-14-45 [http-nio-9000-exec-2] [org.springframework.web.servlet.DispatcherServlet] [INFO] - Completed initialization in 30 ms
+  2019-07-30-14-45 [http-nio-9000-exec-2] [com.hadoope.demo.controller.HadoopController] [INFO] - 新建文件成功
+  2019-07-30-15-17 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-30-15-17 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 7284 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-30-15-17 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-30-15-17 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-30-15-17 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1129 ms
+  2019-07-30-15-17 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-30-15-17 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-30-15-17 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 有如下文件需要采集null
+  2019-07-30-15-17 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-30-15-17 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 1.82 seconds (JVM running for 2.447)
+  2019-07-30-15-26 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-30-15-26 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 8072 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-30-15-26 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-30-15-26 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-30-15-26 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1176 ms
+  2019-07-30-15-26 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-30-15-26 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-30-15-26 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 有如下文件需要采集null
+  2019-07-30-15-26 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-30-15-26 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 1.946 seconds (JVM running for 2.499)
+  2019-07-30-15-27 [task-2] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 有如下文件需要采集null
+  2019-07-30-15-28 [task-3] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 有如下文件需要采集null
+  2019-07-30-15-29 [task-4] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 有如下文件需要采集null
+  2019-07-30-15-30 [task-5] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 有如下文件需要采集null
+  2019-07-30-15-31 [task-6] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 有如下文件需要采集null
+  2019-07-30-15-47 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-30-15-47 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 10892 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-30-15-47 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-30-15-47 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-30-15-47 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1091 ms
+  2019-07-30-15-47 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-30-15-47 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-30-15-47 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-30-15-47 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 1.789 seconds (JVM running for 2.29)
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 有如下文件需要采集[]
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 文件目录:D:\IDEA\loadFile
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628061919.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628062421.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628062922.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628063423.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628063924.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628064425.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628064926.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628065427.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628065927.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628070429.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628070930.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628071431.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628071932.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628072431.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628072934.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628073433.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628075238.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628075738.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628080239.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628085417.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628085916.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628090418.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628090919.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628091419.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628091921.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628092422.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628092924.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628093427.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628093927.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628094427.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628094929.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628095429.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628095930.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628100431.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628101403.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628101904.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628102405.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628102906.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628103407.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628103908.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628104409.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628104909.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628105409.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628105910.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628110410.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628110912.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628111414.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628111915.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628112416.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628112917.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628113417.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628113918.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628114420.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628114922.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628115422.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628115922.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628120423.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628120924.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628121426.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628121927.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628122428.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628122930.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628123430.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628123931.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628124432.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628124932.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628125434.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628125936.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628130438.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628130939.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628131440.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628131942.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628132443.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628132943.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628133444.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628133946.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628134446.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628134946.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628135448.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628135951.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628140451.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628140952.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628141454.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628141955.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628142456.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628142957.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628143458.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628144000.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628144459.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628145001.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628145501.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628150002.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628150502.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628151516.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628152620.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628153121.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628153622.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628154124.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628154625.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628155951.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628160453.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628160954.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628161455.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628161957.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628162458.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628162958.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628163500.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628164000.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628164502.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190628165003.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708083135.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708083637.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708085131.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708085632.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708090134.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708090635.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708091137.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708091638.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708092138.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708092640.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708093140.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708093642.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708094142.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708094644.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708095145.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708095647.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708100148.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708100650.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708101151.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708101652.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708102155.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708102655.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708103158.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708103658.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708104159.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708104701.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708105201.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708105704.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708110204.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708110705.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708111206.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708111706.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708112208.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708112709.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708113212.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708113711.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708114212.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708114714.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708115214.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708115716.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708120217.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708120719.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708121220.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708121722.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708122222.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708122723.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708123226.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708123726.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708124227.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708124729.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708125230.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708125733.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708130233.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708130734.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708131236.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708131736.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708132238.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708132739.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708134343.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708134845.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708135345.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708135847.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708140347.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708140847.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708141348.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708141850.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708142350.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708142851.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708143351.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708143852.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708144354.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708144855.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708145357.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708145857.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708150359.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708150859.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708151400.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708151901.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708152401.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708152902.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708153403.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708153903.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708154404.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708154904.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708155407.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708155907.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708160409.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708160909.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708161410.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708161911.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708162413.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708162912.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708163412.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708163913.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190708164415.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718000041.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718000542.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718001042.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718001542.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718002045.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718002544.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718003046.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718003548.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718004049.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718004549.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718005049.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718005551.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718010052.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718010552.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718011053.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718011555.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718012055.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718012555.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718013056.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718013556.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718014058.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718014600.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718015101.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718015603.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718020105.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718020605.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718021106.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718021606.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718022109.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718022609.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718023109.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718023609.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718024109.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718024610.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718025111.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718025611.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718030113.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718030613.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718031113.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718031615.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718032117.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718032619.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718033120.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718033620.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718034122.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718034621.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718035123.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718035624.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718040124.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718040624.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718041125.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718041625.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718042126.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718042626.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718043129.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718043629.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718044129.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718044631.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718045131.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718045632.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718050133.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718050634.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718051134.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718051635.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718052135.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718052635.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718053137.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718053636.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718054136.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718054636.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718055137.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718055637.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718060138.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718060639.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718061141.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718061642.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718062143.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718062645.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718063147.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718063647.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718064148.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718064649.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718065150.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718065651.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718070153.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718070655.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718071155.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718071656.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718072157.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718072659.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718073200.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718073701.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718074202.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718074703.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718075204.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718075705.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718080207.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718080708.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718081209.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718081711.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718082212.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718082713.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718083214.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718083715.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718084216.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718084718.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718085218.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718085719.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718090220.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718090721.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718091222.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718091723.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718092224.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718092724.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718093225.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718093726.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718094226.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718094727.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718095227.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718095728.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718100229.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718100730.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718101231.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718101732.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718102233.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718102734.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718103235.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718103736.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718104237.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718104738.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718105239.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718105740.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718110241.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718110742.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718111244.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718111745.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718112246.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718112746.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718113248.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718113748.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718114249.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718114750.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718115251.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718115751.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718120252.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718120754.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718121254.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718121755.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718122257.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718122757.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718123258.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718123759.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718124301.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718124802.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718125304.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718125804.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718130305.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718130806.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718131307.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718131807.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718132308.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718132808.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718133311.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718133810.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718134312.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718134812.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718135312.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718135813.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718140314.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718140815.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718142158.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718142658.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718143159.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718143700.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718144201.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718144701.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718145201.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718145703.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718150203.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718150704.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718151205.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718151705.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718152206.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718152707.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718153207.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718153709.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718154210.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718154710.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718155211.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718155713.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718160213.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718160715.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718161215.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718161716.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718162217.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718162718.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718163220.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718163720.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718164221.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718164722.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718165223.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718165724.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718170224.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718170725.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718171226.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718171727.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718172227.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718172728.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718173229.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718173729.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718174231.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718174732.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718175232.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718175734.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718180234.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718180735.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718181236.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718181736.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718182237.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718182737.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718183238.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718183738.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718184239.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718184739.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718185241.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718185741.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718190241.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718190743.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718191244.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718191746.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718192246.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718192748.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718193249.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718193751.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718194252.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718194752.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718195252.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718195753.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718200254.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718200754.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718201254.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718201754.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718202255.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718202755.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718203255.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718203755.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718204256.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718204756.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718205258.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718205758.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718210259.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718210759.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718211259.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718211759.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718212300.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718212801.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718213301.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718213801.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718214302.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718214802.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718215303.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718215804.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718220304.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718220805.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718221306.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718221806.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718222306.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718222808.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718223308.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718223808.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718224308.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718224810.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718225312.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718225813.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718230315.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718230817.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718231321.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718231819.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718232320.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718232821.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718233323.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718233823.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718234325.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718234827.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718235329.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190718235831.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728000429.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728000930.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728001430.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728001932.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728002432.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728002933.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728003432.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728003935.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728004518.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728005021.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728005521.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728010021.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728010522.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728011023.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728011524.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728012025.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728012525.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728013025.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728013525.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728014025.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728014526.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728015027.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728015527.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728020028.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728020529.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728021029.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728021530.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728022031.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728022532.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728023033.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728023533.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728024034.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728024534.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728025034.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728025534.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728030036.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728030537.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728031037.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728031537.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728032038.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728032538.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728033039.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728033540.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728034040.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728034540.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728035041.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728035541.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728040041.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728040542.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728041042.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728041543.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728042044.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728042544.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728043045.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728043546.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728044046.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728044547.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728045048.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728045551.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728050052.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728050552.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728051053.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728051553.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728052053.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728052554.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728053055.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728053555.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728054057.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728054559.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728055100.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728055602.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728060103.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728060605.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728061107.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728061607.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728062109.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728062610.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728063110.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728063611.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728064113.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728064614.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728065116.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728065617.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728071127.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728071628.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728072131.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728072631.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728073133.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728073634.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728074135.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728074637.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728075137.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728075639.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728080140.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728080641.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728081143.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728081645.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728082147.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728082648.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728083150.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728083652.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728084153.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728084653.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728085155.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728085656.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728090157.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728090656.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728091157.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728091657.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728092200.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728092701.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728093202.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728093703.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728094204.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728094706.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728095208.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728095707.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728100209.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728100712.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728101213.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728101713.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728102214.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728102714.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728103214.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728103716.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728104217.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728104719.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728105219.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728105720.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728110222.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728110723.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728111223.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728111726.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728112226.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728112725.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728113228.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728113728.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728114228.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728114729.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728115229.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728115729.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728120232.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728120732.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728121234.jpg.jpg
+  2019-07-30-15-49 [task-1] [com.hadoope.demo.scheduling.HadoopScheduleTask] [INFO] - 日志上传至HDFS文件目录:730/20190728121734.jpg.jpg
+  2019-07-30-16-05 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-30-16-05 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 11236 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-30-16-05 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-30-16-05 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-30-16-05 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1535 ms
+  2019-07-30-16-05 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-30-16-05 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-30-16-05 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-30-16-05 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 2.233 seconds (JVM running for 2.741)
+  2019-07-30-16-05 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-30-16-05 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 1224 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-30-16-05 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-30-16-05 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-30-16-05 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1285 ms
+  2019-07-30-16-05 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-30-16-05 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-30-16-05 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-30-16-05 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 1.983 seconds (JVM running for 2.477)
+  2019-07-30-16-06 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-30-16-06 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 6876 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-30-16-06 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-30-16-06 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-30-16-06 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1081 ms
+  2019-07-30-16-06 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-30-16-06 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-30-16-06 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-30-16-06 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 1.795 seconds (JVM running for 2.31)
+  2019-07-30-16-08 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-30-16-08 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 4160 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-30-16-08 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-30-16-08 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-30-16-08 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1129 ms
+  2019-07-30-16-08 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-30-16-08 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-30-16-08 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-30-16-08 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 1.856 seconds (JVM running for 2.347)
+  

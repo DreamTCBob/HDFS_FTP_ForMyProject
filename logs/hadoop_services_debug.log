@@ -1,0 +1,19 @@
+2019-07-31-12-30 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-31-12-30 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 3984 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-31-12-30 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-31-12-30 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-31-12-30 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1904 ms
+  2019-07-31-12-30 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-31-12-30 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-31-12-30 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-31-12-30 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 3.405 seconds (JVM running for 10.376)
+  2019-07-31-12-31 [background-preinit] [org.hibernate.validator.internal.util.Version] [INFO] - HV000001: Hibernate Validator 6.0.17.Final
+  2019-07-31-12-31 [main] [com.hadoope.demo.DemoApplication] [INFO] - Starting DemoApplication on DESKTOP-GESV3VH with PID 4848 (D:\IDEA\hadoopE\target\classes started by 刘跃博 in D:\IDEA\hadoopE)
+  2019-07-31-12-31 [main] [com.hadoope.demo.DemoApplication] [INFO] - No active profile set, falling back to default profiles: default
+  2019-07-31-12-31 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat initialized with port(s): 9000 (http)
+  2019-07-31-12-31 [main] [org.springframework.web.context.ContextLoader] [INFO] - Root WebApplicationContext: initialization completed in 1051 ms
+  2019-07-31-12-31 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor] [INFO] - Initializing ExecutorService 'applicationTaskExecutor'
+  2019-07-31-12-31 [main] [org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler] [INFO] - Initializing ExecutorService 'taskScheduler'
+  2019-07-31-12-31 [main] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [INFO] - Tomcat started on port(s): 9000 (http) with context path ''
+  2019-07-31-12-31 [main] [com.hadoope.demo.DemoApplication] [INFO] - Started DemoApplication in 1.746 seconds (JVM running for 2.299)
+  
